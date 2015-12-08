@@ -7,9 +7,9 @@ Coordinated data analysis exploring relationship between diabetes and cognitive 
 
 Left-click on the the links. Wait for them to open in a separate tab (or window). When the page has load,  right-click anywhere on the page and choose "Save As". Save to folder of your chosing. Open the .html file from saved location.
 
- - [Diabete-Tri-Study](https://raw.githubusercontent.com/IALSA/Diabetes-Tri-Study/master/Reports/Studies_report/Diabetes-Tri-Study.html?token=ACfLyTbYVnSKPb0cwx9RBeXzGb6CYqkWks5VOVhJwA%3D%3D) graphs for each study: datapoint counts, observed and modeled trajectories with superimposed main effects. 
+ - [Diabete-Tri-Study](htmlpreview.github.io/?https://github.com/IALSA/Diabetes-Tri-Study-public/blob/master/Diabetes-Tri-Study.html) graphs for each study: datapoint counts, observed and modeled trajectories with superimposed main effects. 
  
- - [Compare Studies](https://raw.githubusercontent.com/IALSA/Diabetes-Tri-Study/master/Reports/Studies_report/Compare_Studies.html?token=ACfLyXWMNmFXAkHDAbrqCSwzEplbuLxHks5VOVmYwA%3D%3D) graphs comparisons across studies
+ - [Compare Studies](htmlpreview.github.io/?https://github.com/IALSA/Diabetes-Tri-Study-public/blob/master/Compare_Studies.html) graphs comparisons across studies
 
 
 
