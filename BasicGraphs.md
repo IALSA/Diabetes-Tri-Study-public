@@ -25,9 +25,32 @@
 
 
 
-# Effects & Trajectories
+# Observed Trajectories (sub sample)
+- subsampe of random 300 individuals
+- Semi-transparent circles represent measurement of persons
+- Thin **grey lines** connect dots of one person
+- **Solid line** is the main effect.  
+- **Dashed line** is the effect of HTN, DM, and HTNDM.  
 
-- Thin **grey lines** are individual trajectoried computed from factor scores (slopes and intercepts) estimated by MPlus.  
+## ELSA  
+![](Basic_Graphs_rmd/observedLines_ELSA_300-1.png) 
+
+## OCTO 
+![](Basic_Graphs_rmd/observedLines_OCTO_300-1.png) 
+
+## RUSHc 
+![](Basic_Graphs_rmd/observedLines_RUSHc_300-1.png) 
+
+## RUSHe 
+![](Basic_Graphs_rmd/observedLines_RUSHe_300-1.png) 
+
+## RUSHl 
+![](Basic_Graphs_rmd/observedLines_RUSHl_300-1.png) 
+
+## Observed Trajectories (full sample)
+- full sample
+- Semi-transparent circles represent measurement of persons
+- Thin **grey lines** connect dots of one person
 - **Solid line** is the main effect.  
 - **Dashed line** is the effect of HTN, DM, and HTNDM.  
 
