@@ -42,19 +42,19 @@ Semi-transparent blue lines: individual predictions
 Red line: Main effects
 
 ## Time-yHat : ELSA  
-![](figure_rmd/mTraj_ELSA_yHat-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_ELSA_yHat-1.png) 
 
 ## Time-yHat : OCTO 
-![](figure_rmd/mTraj_OCTO_yHat-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_OCTO_yHat-1.png) 
 
 ## Time-yHat : RUSHc 
-![](figure_rmd/mTraj_RUSHc_yHat-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHc_yHat-1.png) 
 
 ## Time-yHat : RUSHe 
-![](figure_rmd/mTraj_RUSHe_yHat-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHe_yHat-1.png) 
 
 ## Time-yHat: RUSHl 
-![](figure_rmd/mTraj_RUSHl_yHat-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHl_yHat-1.png) 
 
 
 # Predicted (Time-yCond)
@@ -63,19 +63,19 @@ Semi-transparent blue lines: individual predictions
 Red line: Main effects
 
 ## Time-yCond : ELSA  
-![](figure_rmd/mTraj_ELSA_yCond-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_ELSA_yCond-1.png) 
 
 ## Time-yCond : OCTO 
-![](figure_rmd/mTraj_OCTO_yCond-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_OCTO_yCond-1.png) 
 
 ## Time-yCond : RUSHc 
-![](figure_rmd/mTraj_RUSHc_yCond-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHc_yCond-1.png) 
 
 ## Time-yCond : RUSHe 
-![](figure_rmd/mTraj_RUSHe_yCond-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHe_yCond-1.png) 
 
 ## Time-yCond: RUSHl 
-![](figure_rmd/mTraj_RUSHl_yCond-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHl_yCond-1.png) 
 
 
 
@@ -83,38 +83,38 @@ Red line: Main effects
 # Predicted (Age-yHat)
 
 ##  Age-yHat : ELSA 
-![](figure_rmd/mTraj_ELSA_yHat_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_ELSA_yHat_Age-1.png) 
 
 ##  Age-yHat : OCTO 
-![](figure_rmd/mTraj_OCTO_yHat_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_OCTO_yHat_Age-1.png) 
 
 ##  Age-yHat : RUSHc 
-![](figure_rmd/mTraj_RUSHc_yHat_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHc_yHat_Age-1.png) 
 
 ##  Age-yHat : RUSHe 
-![](figure_rmd/mTraj_RUSHe_yHat_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHe_yHat_Age-1.png) 
 
 ##   Age-yHat : RUSHl 
-![](figure_rmd/mTraj_RUSHl_yHat_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHl_yHat_Age-1.png) 
 
 
 
 # Predicted (Age-yCond)
 
 ##  Age-yCond : ELSA 
-![](figure_rmd/mTraj_ELSA_yCond_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_ELSA_yCond_Age-1.png) 
 
 ##  Age-yCond : OCTO 
-![](figure_rmd/mTraj_OCTO_yCond_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_OCTO_yCond_Age-1.png) 
 
 ##  Age-yCond : RUSHc 
-![](figure_rmd/mTraj_RUSHc_yCond_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHc_yCond_Age-1.png) 
 
 ##  Age-yCond : RUSHe 
-![](figure_rmd/mTraj_RUSHe_yCond_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHe_yCond_Age-1.png) 
 
 ##   Age-yCond : RUSHl 
-![](figure_rmd/mTraj_RUSHl_yCond_Age-1.png) 
+![](yHats_vs_yCond_rmd/mTraj_RUSHl_yCond_Age-1.png) 
 
 
 
