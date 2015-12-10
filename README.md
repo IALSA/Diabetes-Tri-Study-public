@@ -20,3 +20,7 @@ The importance of preventing and controlling both **hypertension** (HTN) and **d
 ## Documentation
 
 - this [vignette](http://cran.r-project.org/web/packages/MplusAutomation/vignettes/Vignette.pdf) demonstrates the use of  [MplusAutomation](http://cran.r-project.org/web/packages/MplusAutomation/MplusAutomation.pdf) package used in this project to process the statistical models. 
+
+## Link
+
+ - [yHat-vs-yCond][yHat-vs-yCond.md]
