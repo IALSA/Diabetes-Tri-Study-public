@@ -47,7 +47,8 @@
 ## RUSHl 
 ![](Basic_Graphs_rmd/observedLines_RUSHl_300-1.png) 
 
-## Observed Trajectories (full sample)
+
+# Observed Trajectories (full sample)
 - full sample
 - Semi-transparent circles represent measurement of persons
 - Thin **grey lines** connect dots of one person
