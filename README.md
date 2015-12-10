@@ -23,4 +23,4 @@ The importance of preventing and controlling both **hypertension** (HTN) and **d
 
 ## Link
 
- - [yHat-vs-yCond][yHat-vs-yCond.md]
+ - [yHat-vs-yCond](yHat-vs-yCond.md)
