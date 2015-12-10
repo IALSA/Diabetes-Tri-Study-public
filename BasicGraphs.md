@@ -24,6 +24,32 @@
 
 
 
+
+# Effects & Trajectories
+
+- Thin **grey lines** are individual trajectoried computed from factor scores (slopes and intercepts) estimated by MPlus.  
+- **Solid line** is the main effect.  
+- **Dashed line** is the effect of HTN, DM, and HTNDM.  
+
+## ELSA  
+![](Basic_Graphs_rmd/observedLines_ELSA-1.png) 
+
+## OCTO 
+![](Basic_Graphs_rmd/observedLines_OCTO-1.png) 
+
+## RUSHc 
+![](Basic_Graphs_rmd/observedLines_RUSHc-1.png) 
+
+## RUSHe 
+![](Basic_Graphs_rmd/observedLines_RUSHe-1.png) 
+
+## RUSHl 
+![](Basic_Graphs_rmd/observedLines_RUSHl-1.png) 
+
+
+
+
+
 # Effects & Trajectories
 
 - Thin **grey lines** are individual trajectoried computed from factor scores (slopes and intercepts) estimated by MPlus.  
@@ -62,6 +88,9 @@
 
 ## RUSHl 
 ![](Basic_Graphs_rmd/trajBasic_RUSHl_scaled-1.png) 
+
+
+
 
 
 # Residuals
